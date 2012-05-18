@@ -1,0 +1,7 @@
+include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+
+<Multi_key> <bar> <period> : "∘" U2218 # FLP COMPOSITION OPERATOR
+<Multi_key> <bar> <equal> : "≡" U2261 # FLP DEFINITION
+<Multi_key> <bar> <greater> : "→" U2192 # FLP CONDITIONAL
+<Multi_key> <bar> <underscore> : "⟂" U27C2 # FLP BOTTOM
+<Multi_key> <bar> <a> : "α" U03B1 # FLP APPLY-TO-ALL
